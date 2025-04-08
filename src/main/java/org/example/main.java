@@ -1,3 +1,7 @@
+// Lucas Queiroz Balduino - 839808
+// Miguel Ribas Berlese - 839938
+// Octavio Santos Junqueira - 840755
+
 package org.example;
 
 import javax.swing.*;
